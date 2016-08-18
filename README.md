@@ -10,4 +10,4 @@ Instalation
 4. Click on tab "Local Files"
 5. Choice "Brower Local Files"
 6. Clink on folder "csgo/cfg/"
-7. Past all file form repo
+7. Past all files form repo
